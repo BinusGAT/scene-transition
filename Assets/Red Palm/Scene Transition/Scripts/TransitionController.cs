@@ -17,7 +17,7 @@ namespace RedPalm.SceneTransition
                 Destroy(instance.gameObject);
             }
             instance = this;
-
+            //weq
             canvas = GetComponent<Canvas>();
             transition = GetComponentInChildren<ITransition>();
         }
