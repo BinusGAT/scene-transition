@@ -18,6 +18,7 @@ namespace RedPalm.SceneTransition
             }
             instance = this;
             //weq
+            // qweasd
             canvas = GetComponent<Canvas>();
             transition = GetComponentInChildren<ITransition>();
         }
